@@ -4,7 +4,8 @@
   "description": "Student Seat shuffler =====================",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/devjanaprime/seatShuffler/issues"
   },
-  "homepage": "https://github.com/devjanaprime/seatShuffler#readme"
+  "homepage": "https://github.com/devjanaprime/seatShuffler#readme",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.14"
+  }
 }
