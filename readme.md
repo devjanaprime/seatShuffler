@@ -1,9 +1,9 @@
 Project:
 Student Seat shuffler
 
-Purpose1: Automate seat shuffling for students in the Nu cohort. Short completion window.
+Purpose 0: Automate seat shuffling for students in the Nu cohort. Short completion window.
 
-Purpose2: Break the seal on Casie, Dev, and Millie as a team. Focus will be on completing something functional using the MEAN stack from inception to deployment as a team.
+Purpose 1: Break the seal on Casie, Dev, and Millie as a team. Focus will be on completing something functional using the MEAN stack from inception to deployment as a team.
 
 Epics:
 1 Student CRUD
