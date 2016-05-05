@@ -14,6 +14,7 @@ Break the seal on Casie, Dev, and Millie as a team. Focus will be on completing 
 * 1 Student CRUD
 * 2 Seat CRUD
 * 3 Automated Seat Shuffle
+* 4 Deployment
 
 ### Stories by Epic
 * 1a - I want to create new students
@@ -27,3 +28,5 @@ Break the seal on Casie, Dev, and Millie as a team. Focus will be on completing 
 
 * 3a - I want automated seating shuffles
 * 3b - I want to save shuffled seat reports
+
+* 4a - I want this deployed on Heroku
